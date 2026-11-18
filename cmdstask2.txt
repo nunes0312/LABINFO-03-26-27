@@ -1,0 +1,14 @@
+    1  cd /home/diegonunes/A-140391-notas.txt
+    2  pwd
+    3  touch identificaçao.txt
+    4  git add identificacao.txt
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+    6  git push
+    7  mkdir A140391
+    8  cd A140391
+    9  touch README.md
+   10  echo Teste de LI 2026/2027.
+   11  echo "Teste de LI 2026/2027" > README.md
+   12  cd ..
+   13  pwd
+   14  history > cmdstask2.txt
